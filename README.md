@@ -26,7 +26,5 @@ Feel free to connect with me. Let's build something amazing together!
   <a href="https://linkedin.com/in/gargkrishna24" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/herinnsoni" target="_blank">
-    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+
 </p>
