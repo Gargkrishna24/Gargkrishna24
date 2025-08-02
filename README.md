@@ -15,8 +15,7 @@
 - 🌱 I’m currently learning the **MERN Stack**.
 - 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/gargkrishna24).
 - 💬 Ask me about **React, JavaScript, and Node.js**.
-- 📫 How to reach me: **[YourEmail@example.com]**.
-- 📄 Know about my experiences: [Your Resume Link].
+- 📫 How to reach me: **gargkrishna888@gmail.com**.
 
 ---
 
